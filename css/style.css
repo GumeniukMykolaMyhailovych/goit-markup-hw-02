@@ -1,0 +1,33 @@
+
+body
+{font-family: Roboto, Raleway, sans-serif;
+    width: regular;
+    Size: 16px;
+    Line-height: 24px;
+    letter-spacing: 2%;
+    color: #434455;
+    background-color: #ffffff;
+}
+
+.bckgr-fon {color: #2E2F42}
+
+li {list-style-type: none}
+a {text-decoration: none}
+
+button {color: #ffffff;
+background-color: #4D5AE5;
+cursor: pointer;
+}
+button:hover,
+button:focus {color: #ffffff;
+    background-color: #404BBF
+}
+
+/* h-1 {
+    font-weight: bold;
+    size: 112 px;
+    letter-spacing: 2%;
+    line-height: 1.1%;} */
+
+
+
