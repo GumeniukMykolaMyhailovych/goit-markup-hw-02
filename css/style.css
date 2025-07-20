@@ -9,8 +9,6 @@ body
     background-color: #ffffff;
 }
 
-.bckgr-fon {color: #2E2F42}
-
 li {list-style-type: none}
 a {text-decoration: none}
 
@@ -22,12 +20,3 @@ button:hover,
 button:focus {color: #ffffff;
     background-color: #404BBF
 }
-
-/* h-1 {
-    font-weight: bold;
-    size: 112 px;
-    letter-spacing: 2%;
-    line-height: 1.1%;} */
-
-
-
