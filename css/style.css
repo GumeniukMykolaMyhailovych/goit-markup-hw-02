@@ -16,6 +16,11 @@ a {
     color: #422f2e;
 }
 
+.contacts-item {
+    hover: #404bbf;
+    focus: #404bbf;
+    }
+
 .head {
     color: #ffffff;
     font-size: 56px;
@@ -48,9 +53,6 @@ a {
 }
 
 
-.header-logo .logo-part {
-    color: #2e2f42;
-}
 
 .head-bckgr {
     background-color: #2E2F42;
