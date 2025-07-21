@@ -18,6 +18,10 @@ a {
 
 .head {
     color: #ffffff;
+    font-size: 56px;
+    line-height: 1.07;
+    text-align: center;
+    letter-spacing: 0.02em;
 }
 
 .logo {
@@ -36,7 +40,11 @@ a {
 
 .head-bckgr {
     background-color: #2E2F42;
-}
+    font-size: 56px;
+    line-height: 1.07;
+    text-align: center
+    letter-spacing: 0.02em
+    }
 
 .nav-link {
     font-weight: 500;
@@ -55,6 +63,8 @@ a {
     line-height: 1.5;
     letter-spacing: 0.02em;
     color:#434455
+    hover: #404bbf
+    focus: #404bbf
 }
 
 .nav-link:hover,
@@ -68,6 +78,9 @@ button {
     color: #ffffff;
     background-color: #4D5AE5;
     cursor: pointer;
+    font-weight: 500
+    line-height: 1.5
+    letter-spacing: 0.04em
 }
 
 button:hover,
@@ -84,21 +97,32 @@ button:focus {
     color: #f4f4fd
 }
 
-.header name {
+.header-name {
     font-weight: 700;
     font-size: 36px;
     line-height: 1.11;
     letter-spacing: 0.02em;
     text-align: center;
-    color: #2e2f42;
+    color: #F4F4FD;
 }
 
+
+
 .names-people {
-    font-weight: 500;
-    font-size: 20px;
-    line-height: 1.2;
+font-weight: 500;
+font-size: 20px;
+line-height: 1.2;
+letter-spacing: 0.02em;
+text-align: center;
+color: #2e2f42;}
+
+.people-role {
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 1.5;
     letter-spacing: 0.02em;
-    color: #2e2f42;
+    text-align: center;
+    color: #434455;
 }
 
 .header-list-benefits {
