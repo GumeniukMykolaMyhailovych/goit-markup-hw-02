@@ -24,6 +24,11 @@ a {
     letter-spacing: 0.02em;
 }
 
+.heads: {
+    text-transform: capitalize;
+    color: #2e2f42
+}
+
 .logo {
     font-family: 'Raleway', sans-serif;
     font-weight: 700;
@@ -66,15 +71,7 @@ a {
     hover: #404bbf
     focus: #404bbf
 }
-
-.nav-link:hover,
-.nav-link:focus,
-.contacts-link:hover,
-.contacts-link:focus {
-    color: #404bbf
-}
-
-button {
+.button {
     color: #ffffff;
     background-color: #4D5AE5;
     cursor: pointer;
@@ -83,8 +80,8 @@ button {
     letter-spacing: 0.04em
 }
 
-button:hover,
-button:focus {
+.button:hover,
+.button:focus {
     color: #ffffff;
     background-color: #404BBF
 }
@@ -97,16 +94,27 @@ button:focus {
     color: #f4f4fd
 }
 
+.our-team {
+    color: #F4F4FD
+    background-color: #FFFFFF;
+    font-size: 20px;
+    line-height: 1.2;
+    
+}
+
 .header-name {
     font-weight: 700;
     font-size: 36px;
     line-height: 1.11;
     letter-spacing: 0.02em;
     text-align: center;
-    color: #F4F4FD;
+    text-transform: capitalize
+    color: ##2e2f42;
 }
 
-
+.list-people {
+    background-color: #FFFFFF
+}
 
 .names-people {
 font-weight: 500;
@@ -114,7 +122,8 @@ font-size: 20px;
 line-height: 1.2;
 letter-spacing: 0.02em;
 text-align: center;
-color: #2e2f42;}
+color: #2e2f42;
+}
 
 .people-role {
     font-weight: 400;
