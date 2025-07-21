@@ -196,10 +196,10 @@ color: #2e2f42;
 {
     color: #404BBF;}
     
-.header-nav-link:hover,
+.header-logo :hover, 
 .nav-link:focus
 {
-        color: #404BBF;
+        color: #404bbf;
     }
 
 
