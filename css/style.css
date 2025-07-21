@@ -47,6 +47,11 @@ a {
     color: #2e2f42
 }
 
+
+.header-logo .logo-part {
+    color: #2e2f42
+}
+
 .head-bckgr {
     background-color: #2E2F42;
     font-size: 56px;
@@ -65,6 +70,15 @@ a {
     focus: #404bbf;
 }
 
+.nav-item {
+    font-weight: 500;
+    font-size: 16px;
+    line-height: 1.5;
+    letter-spacing: 0.02em;
+    color: #2E2F42;
+    hover: #404bbf;
+    focus: #404bbf;
+}
 
 .contacts {
     font-style: normal;
