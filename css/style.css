@@ -25,6 +25,10 @@ a {
 }
 
 .heads: {
+    font-size: 36px;
+    line-height: 1.11;
+    text-align: center;
+    letter-spacing: 0.02em
     text-transform: capitalize;
     color:#2e2f42
 }
@@ -78,8 +82,9 @@ a {
     color: #ffffff;
     background-color: #4D5AE5;
     cursor: pointer;
-    font-weight: 500
-    line-height: 1.5
+    font-size: 16px;
+    font-weight: 500;
+    line-height: 1.5;
     letter-spacing: 0.04em
 }
 
@@ -90,6 +95,22 @@ a {
 }
 
 
+.portfolio {
+    font-size: 36px;
+    line-height:1.11;
+    text-align: center;
+    letter-spacing: 0.02em;
+    text-transform: capitalize;
+    color: #2e2f42;
+}
+
+.paragraph-portfolio {
+    font-size: 16px;
+    line-height: 1.5;
+    letter-spacing: 0.02em;
+    color: #434455
+}
+
 .page-footer {
     background-color: #2e2f42;
 }
@@ -98,7 +119,7 @@ a {
 }
 
 .our-team {
-    color: #F4F4FD
+    color: #F4F4FD;
     background-color: #FFFFFF;
     font-size: 20px;
     line-height: 1.2;
@@ -151,4 +172,10 @@ color: #2e2f42;
     line-height: 1.5;
     letter-spacing: 0.02em;
     color: #434455;
+}
+
+.info {
+    line-height: 1.5;
+    color: #F4F4FD;
+    letter-spacing: 0.02em;
 }
