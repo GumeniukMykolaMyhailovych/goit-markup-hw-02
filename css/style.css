@@ -84,10 +84,8 @@ a {
     color:#434455;
     hover: #404bbf;
     focus: #404bbf;
-
             }
 
-}
 .button {
     color: #ffffff;
     background-color: #4D5AE5;
@@ -100,8 +98,8 @@ a {
 
 .button:hover,
 .button:focus {
-    color: #ffffff;
-    background-color: #404BBF;
+    color: #4D5AE5;
+    background-color: 4D5AE5;
 }
 
 .portfolio {
