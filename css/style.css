@@ -82,10 +82,10 @@ a {
     color: #ffffff;
     background-color: #4D5AE5;
     cursor: pointer;
-    font-size: 16px;F
+    font-size: 16px;
     font-weight: 500;
     line-height: 1.5;
-    letter-spacing: 0.04em
+    letter-spacing: 0.04em;
 }
 
 .button:hover,
@@ -96,19 +96,20 @@ a {
 
 
 .portfolio {
-    font-weight: 500
-    font-size: 20px;
-    line-height:1.2;
+    font-size: 36px;
+    line-height:1.1;
+    text-align: center
     letter-spacing: 0.02em;
     text-transform: capitalize;
     color: #2e2f42;
 }
 
 .paragraph-portfolio {
-    font-size: 16px;
-    line-height: 1.5;
+    font-weight: 500;
+    font-size: 20px;
+    line-height: 1.2;
     letter-spacing: 0.02em;
-    color: #434455
+    color: #2e2f42;
 }
 
 .page-footer {
