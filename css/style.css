@@ -192,7 +192,8 @@ color: #2e2f42;
     letter-spacing: 0.02em;
 }
 
-.nav-link:hover, .nav-link:focus
+.nav-link:hover,
+.nav-link:focus
 {
     color: #404BBF;}
     
