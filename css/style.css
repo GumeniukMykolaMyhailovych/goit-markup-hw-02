@@ -49,11 +49,11 @@ a {
     color: #4d5ae5;
 }
 
-.header-logo .logo-part {
+.header-logo{
     color: #2e2f42;
 }
 
-
+.logo-part
 
 .head-bckgr {
     background-color: #2E2F42;
@@ -214,7 +214,7 @@ color: #2e2f42;
 }
 
 .nav-item :hover,
-.nav-link:focus {
+.nav-item:focus {
     color: #404bbf;
 }
     
