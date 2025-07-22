@@ -78,8 +78,12 @@ a {
     line-height: 1.5;
     letter-spacing: 0.02em;
     color:#434455;
-    hover: #404bbf;
-    focus: #404bbf;
+
+    .contacts-link:hover,
+    .contacts-link:focus {
+            color: #404bbf;
+            background-color: #404bbf;
+
             }
 
 .button {
