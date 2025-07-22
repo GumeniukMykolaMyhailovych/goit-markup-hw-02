@@ -1,3 +1,4 @@
+/* body */
 body {
     font-family: 'Roboto', sans-serif;
     color: #434455;
@@ -13,14 +14,26 @@ a {
     text-decoration: none;
 }
 
+/* header */
 .header-nav {
-    color: #422f2e;
+    background-color: #422f2e;
 }
-
+.logo {
+    font-family: 'Raleway', sans-serif;
+    font-weight: 700;
+    font-size: 18px;
+    line-height: 1.17;
+    letter-spacing: 0.03em;
+    text-transform: uppercase;
+    color: #4d5ae5;
+}
 .nav-item {
     hover #404bbf;
     focus #404bbf;
 }
+
+
+
 
 .head {
     color: #ffffff;
@@ -39,15 +52,7 @@ a {
     color: #2e2f42;
 }
 
-.logo {
-    font-family: 'Raleway', sans-serif;
-    font-weight: 700;
-    font-size: 18px;
-    line-height: 1.17;
-    letter-spacing: 0.03em;
-    text-transform: uppercase;
-    color: #4d5ae5;
-}
+
 
 .header-logo .logo-part {
     color: #2e2f42;
