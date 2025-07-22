@@ -207,8 +207,16 @@ color: #2e2f42;
     color: #2e2f42;
 }
 
+.nav-item {
+    color: #2e2f42;
+}
 
+.nav-item :hover,
+.nav-link:focus {
+    color: #404bbf;
+}
     
+
 
 
 
