@@ -28,6 +28,7 @@ a {
     color: #4d5ae5;
 }
 .nav-item {
+    color: #2e2f42;
     hover #404bbf;
     focus #404bbf;
 }
@@ -52,11 +53,14 @@ a {
     color: #2e2f42;
 }
 
-
-
-.header-logo .logo-part {
+.logo header-logo {
     color: #2e2f42;
 }
+
+.header-logo .logo-part {
+    color: #423c2e;
+}
+
 
 
 
@@ -84,6 +88,7 @@ a {
     hover #404bbf;
     focus #404bbf;
 }
+
 
 
 .contacts {
@@ -224,3 +229,10 @@ a {
 .nav-link:focus {
     color: #404bbf;
 }
+
+.contacts-link :hover,
+.nav-link:focus
+{
+    color: #404bbf;
+}
+    
