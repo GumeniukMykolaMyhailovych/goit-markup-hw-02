@@ -85,7 +85,7 @@ a {
 font-style: normal;
 }
 .contacts :hover,
-.contacts:focus {
+.nav-link:focus {
      color: #404bbf;
  }
 
