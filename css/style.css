@@ -220,3 +220,7 @@ a {
 .nav-item:focus {
     color: #404bbf;
 }
+
+.contacts-link :hover,
+.nav-item:focus {
+    color: #404bbf;}
