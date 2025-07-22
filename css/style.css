@@ -225,11 +225,11 @@ a {
     font-size: 16px;
     line-height: 1.5;
     letter-spacing: 0.02em;
-
+    color: #2e2f42;
     hover: #404bbf;
     focus: #404bbf;
 }
 .contacts-link
-:hover :focus {
-    color: #434455;
+:hover:focus {
+    color: #404bbf;
 }
