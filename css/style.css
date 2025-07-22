@@ -19,7 +19,7 @@ a {
 }
 
 .nav-item {
-    color: #2e2f42
+    color: #2e2f42;
     hover: #404bbf;
     focus: #404bbf;
 }
