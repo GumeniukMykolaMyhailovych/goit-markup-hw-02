@@ -229,6 +229,9 @@ a {
     hover: #404bbf;
     focus: #404bbf;
 }
+
+.contacts-link {color:#434455;}
+
 .contacts-link
 :hover, :focus {
     color: #404bbf;
