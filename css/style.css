@@ -14,13 +14,12 @@ a {
 }
 
 .header-nav {
-
     color: #422f2e;
 }
 
 .nav-item {
-    hover: #404bbf;
-    focus: #404bbf;
+    hover #404bbf;
+    focus #404bbf;
 }
 
 .head {
