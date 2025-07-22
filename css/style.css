@@ -53,9 +53,6 @@ a {
     color: #2e2f42;
 }
 
-.logo header-logo {
-    color: #2e2f42;
-}
 
 .logo-part {
     color: #423c2e;
@@ -215,10 +212,6 @@ a {
 .header-logo :hover,
 .nav-link:focus {
     color: #404bbf;
-}
-
-.logo header-logo {
-    color: #2e2f42;
 }
 
 .nav-item {
