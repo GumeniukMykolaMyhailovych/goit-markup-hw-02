@@ -53,6 +53,8 @@ a {
     color: #2e2f42;
 }
 
+
+
 .head-bckgr {
     background-color: #2E2F42;
     font-size: 56px;
@@ -69,6 +71,7 @@ a {
     color: #2e2f42;
 }
 
+
 .contacts {
     font-style: normal;
 }
@@ -78,12 +81,8 @@ a {
     line-height: 1.5;
     letter-spacing: 0.02em;
     color:#434455;
-
-    .contacts-link:hover,
-    .contacts-link:focus {
-            color: #404bbf;
-            background-color: #404bbf;
-
+    hover: #404bbf;
+    focus: #404bbf;
             }
 
 .button {
@@ -214,3 +213,9 @@ color: #2e2f42;
 .nav-link:focus {
     color: #404bbf;
 }
+    
+
+
+
+
+
