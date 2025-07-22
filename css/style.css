@@ -229,3 +229,7 @@ a {
     hover: #404bbf;
     focus: #404bbf;
 }
+.contacts-link
+:hover,:focus {
+    color: #404bbf;
+}
