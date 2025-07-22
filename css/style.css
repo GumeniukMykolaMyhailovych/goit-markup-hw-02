@@ -46,7 +46,7 @@ a {
     line-height: 1.17;
     letter-spacing: 0.03em;
     text-transform: uppercase;
-    color: #2e2f42;
+    color: #4d5ae5;
 }
 
 .header-logo .logo-part {
@@ -81,7 +81,7 @@ a {
 
 
 .contacts {
-    color: #434455;
+    color: #2e2f42;
 font-style: normal;
 }
 .contacts :hover,
